@@ -1,0 +1,25 @@
+h1 {color: #ff0000;}
+body{
+	margin: 0;
+	background-color: #FFD1D1;
+	color: #555555;
+	font-family: Arial, Helvetica, sans-seriff;
+	font-size: 16;
+	font-weight: normal;
+	line-height: 1.6em;
+	
+}
+h2{color: #FA7070}
+h3{color:#F96666 }
+h4{color: #FF1E1E}
+h5{color: #FF5D5D}
+h6{color: #76A21E}
+p{color: #8A2BE2}
+.box-1{background-color: black;
+	color: #fff;
+
+}
+.container {
+	width: 80%;
+	margin: auto;
+}
